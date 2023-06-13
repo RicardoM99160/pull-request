@@ -1,3 +1,25 @@
 hello world!!
 AWS cloud practitioner
-AWS associate developer error
+AWS associate developer
+C x
+B x
+D x
+D x
+B x
+A, C, B x
+B y C x
+B x
+A x
+D x
+
+8/10 = 8
+
+
+VPC = Virtual private cloud
+EC2 = Elastic Cloud Compute
+S3 = Simple Storage Service
+RDS = Relational Database Service
+IAM = Identity 
+AMI 
+
+asdfasdfsa
